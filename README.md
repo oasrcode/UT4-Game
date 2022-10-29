@@ -1,4 +1,4 @@
-# UT4 - Unity - Rag a ball
+# UT4 - Unity - Roll a ball
 
 ## Table of Contents 
  - [Intro](#intro)
@@ -11,7 +11,7 @@
 
 ### Intro 📖
 ***
-Rag a doll 
+
 
 ### Technologies 🎯
 ***
