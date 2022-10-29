@@ -23,7 +23,7 @@ public class Hud : MonoBehaviour
     void Update()
     {
         coinsTxt.text = GameManager.Instance.PlayerCoins.ToString();
-        timerTxt.text = GameManager.Instance.TimerLevel.ToString();
+        timerTxt.text = GameManager.Instance.TimerLevel.ToString("0.00");
 
         ShowPanels();
     }
