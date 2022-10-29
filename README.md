@@ -11,7 +11,7 @@
 
 ### Intro 📖
 ***
-
+This is a video game made with unity, in which we have to recollect all the coins in the scene to pass to the next. There is a countdown, so be quick!
 
 ### Technologies 🎯
 ***
@@ -32,8 +32,8 @@ git clone https://github.com/oasrcode/UT4-Game.git
 ### Deployment 🏗️
 ***
 * Open the project with unity hub.
-* In te assets folder go to Scenes and double clic on the scene named Menu.
-* :warning: Go to Game View and change the resolution to  FullHD (1920x1080). :warning:
+* In the assets, folder go to Scenes and double click on the scene named Menu.
+* :warning: Go to Game View and change the resolution to FullHD (1920x1080). :warning:
 * And now the project its ready to be tested.
 
 ### How to play ♟️
