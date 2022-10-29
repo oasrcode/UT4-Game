@@ -6,6 +6,7 @@
  - [Requirements](#requirements)
  - [How to clone](#how-to-clone)
  - [Deployment](#deployment)
+ - [How to play](#how-to-play)
 
 
 ### Intro
@@ -30,4 +31,10 @@ git clone https://github.com/oasrcode/UT4-Game.git
 ```
 ### Deployment
 ***
-Open the project with unity hub
+* Open the project with unity hub.
+* In te assets folder go to Scenes and double clic on the scene named Menu.
+* Go to Game View and change the resolution to FullHD (1920x1080)
+* And now the project its ready to be tested.
+
+### How to play
+
