@@ -39,5 +39,5 @@ git clone https://github.com/oasrcode/UT4-Game.git
 ### How to play ♟️
 * Use 'wasd' to move the ball
 * Use 'space' to jump over the stairs,
-* Recolet all the coins 🌕 before the time runs out out you'll lose.
-* Hint 👀 there is 2 scenes playable with 4 coins each one. 👍
+* Recolet all the coins 🌕 before the time runs out out.
+* Hint 👀 there is 2 playable scenes with 4 coins each one. 👍
