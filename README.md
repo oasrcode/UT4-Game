@@ -1,4 +1,4 @@
-# App To-Do/Agenda
+# UT4 - Unity - Rag a ball
 
 ## Table of Contents
  - [Intro](#intro)
@@ -24,7 +24,7 @@ Rag a doll
 
 ```bash
 cd existing_folder
-git clone https://github.com/oasrcode/App-To-Do-Agenda.git
+git clone https://github.com/oasrcode/UT4-Game.git
 
 ```
 #### Install nodejs node_modules
