@@ -19,12 +19,12 @@ Rag a doll
 
 
 ### Requirements
-
+***
 - [Unity](https://unity.com/es) v2021.3f9.
 - [UnityHub](https://unity.com/download)
 
 ### How to clone
-
+***
 ```bash
 cd existing_folder
 git clone https://github.com/oasrcode/UT4-Game.git
@@ -37,4 +37,4 @@ git clone https://github.com/oasrcode/UT4-Game.git
 * And now the project its ready to be tested.
 
 ### How to play
-
+***
