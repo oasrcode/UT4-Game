@@ -37,4 +37,6 @@ git clone https://github.com/oasrcode/UT4-Game.git
 * And now the project its ready to be tested.
 
 ### How to play ♟️
-***
+*** Movement with 'wasd'
+*** jump with 'space'
+*** Recolet all the coins 🪙 before the time runs out
