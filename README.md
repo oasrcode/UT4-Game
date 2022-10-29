@@ -33,7 +33,7 @@ git clone https://github.com/oasrcode/UT4-Game.git
 ***
 * Open the project with unity hub.
 * In te assets folder go to Scenes and double clic on the scene named Menu.
-* Go to Game View and change the resolution to FullHD (1920x1080)
+* Go to Game View and change the resolution to FullHD (1920x1080) warning:
 * And now the project its ready to be tested.
 
 ### How to play
