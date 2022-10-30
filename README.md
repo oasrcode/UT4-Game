@@ -7,6 +7,7 @@
  - [How to clone](#how-to-clone)
  - [Deployment](#deployment)
  - [How to play](#how-to-play)
+ - [Implementations](#implementations)
 
 
 ### Intro 📖
@@ -41,3 +42,6 @@ git clone https://github.com/oasrcode/UT4-Game.git
 * Use 'space' to jump over the stairs,
 * Recolet all the coins 🌕 before the time runs out out.
 * Hint 👀 there is 2 playable scenes with 4 coins each one. 👍
+
+### Implementations
+* Added sound system as feedback when catches a coin, or when the scene is finished. :v:
