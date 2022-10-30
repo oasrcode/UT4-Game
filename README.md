@@ -38,10 +38,12 @@ git clone https://github.com/oasrcode/UT4-Game.git
 * And now the project its ready to be tested.
 
 ### How to play ♟️
+***
 * Use 'wasd' to move the ball
 * Use 'space' to jump over the stairs,
 * Recolet all the coins 🌕 before the time runs out out.
 * Hint 👀 there is 2 playable scenes with 4 coins each one. 👍
 
 ### Implementations
+***
 * Added sound system as feedback when catches a coin, or when the scene is finished. :v:
